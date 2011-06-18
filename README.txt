@@ -1,0 +1,1 @@
+scregex is a ruby program that finds words for Scrabble or Words with Friends from the dictionary included in Mac OS X.
